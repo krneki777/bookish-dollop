@@ -10,4 +10,4 @@ else:
 		print (ceil(x))
 
 	else:
-		print(round(x))
+		print(floor(x))
