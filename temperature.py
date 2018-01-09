@@ -1,4 +1,4 @@
-from math import ceil, floor
+#from math import ceil, floor
 
 x = float(input("Vstavi temperaturo:"))
 if -0.5 <= x < 0:
