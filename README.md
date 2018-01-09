@@ -7,3 +7,6 @@ To pa ni naslov.
 Pa še mal.
 Tole je zdej pa že kr precej vrstic.
 Vsaj miljon.
+
+Tole bo tretja posodobitev.
+Ni da ni.
